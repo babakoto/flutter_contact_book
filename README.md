@@ -9,6 +9,7 @@ Install fvm [ici](https://fvm.app/docs/getting_started/installation)
 #### Widget test:** "*NOK*"
 #### Integration test:** "*NOK*"
 
-![home](https://github.com/babakoto/flutter_contact_book/blob/main/screens/home.png)
-![detail](https://github.com/babakoto/flutter_contact_book/blob/main/screens/detail.png)
-![detail](https://github.com/babakoto/flutter_contact_book/blob/main/screens/unit_test.png)
+<img src="https://github.com/babakoto/flutter_contact_book/blob/main/screens/unit_test.png" width="450" height="700" />
+<img src="https://github.com/babakoto/flutter_contact_book/blob/main/screens/home.png" width="450" height="700" />
+<img src="https://github.com/babakoto/flutter_contact_book/blob/main/screens/detail.png" width="450" height="700" />
+
