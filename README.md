@@ -1,9 +1,15 @@
 **Running application**
+
+
 **FVM :**
-Install fvm [ici](https://fvm.app/docs/getting_started/installation)
-   
-   fvm config
-	fvm use 3.3.7
+	Install fvm [ici](https://fvm.app/docs/getting_started/installation)
+
+
+    fvm config
+	fvm use 3.3.2
+
+
+
 
 ## Architecture : Clean architecture 
 
