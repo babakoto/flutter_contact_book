@@ -6,7 +6,7 @@
 
 
     fvm config
-	fvm use 3.3.2
+	fvm use 3.3.7
 
 
 
