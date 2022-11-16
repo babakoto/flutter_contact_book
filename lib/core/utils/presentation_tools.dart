@@ -9,3 +9,7 @@ BorderRadius radiusLR(double value) => BorderRadius.only(
 String formatName(NameEntity name) {
   return "${name.title} ${name.first} ${name.last}";
 }
+
+String formatLocation(LocationEntity location) {
+  return "${location.street.number}  ${location.street.name} ${location.city} ${location.country}";
+}
